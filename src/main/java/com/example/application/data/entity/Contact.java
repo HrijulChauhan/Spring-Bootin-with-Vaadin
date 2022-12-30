@@ -14,6 +14,10 @@ public class Contact extends AbstractEntity {
     @NotEmpty
     private String firstName = "";
 
+//    @NotEmpty
+//    private String plugwalk = "";
+// dawg theres some weird tightly knit stuff going on with this contact class
+
     @NotEmpty
     private String lastName = "";
 
